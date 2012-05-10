@@ -1,0 +1,24 @@
+C:\untitled222\android\bin\classes.dex : \
+C:\untitled222\android\bin\classes\org\kde\necessitas\example\untitled222\R$array.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\example\untitled222\R$attr.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\example\untitled222\R$drawable.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\example\untitled222\R$layout.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\example\untitled222\R$string.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\example\untitled222\R.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$1.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$2.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1$1.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$3.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$4.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$5.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity$6.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtActivity.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtApplication$InvokeResult.class \
+C:\untitled222\android\bin\classes\org\kde\necessitas\origo\QtApplication.class \
